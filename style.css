@@ -1,0 +1,25 @@
+div {
+
+	text-align: center;
+	size: 50px;
+
+
+}
+
+.button {
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+#button_1 {
+  	background-color: red;
+}
+#button_2 {
+  	background-color: pink;
+}
+#button_3 {
+  	background-color: orange;
+}
